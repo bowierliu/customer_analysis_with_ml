@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive data science project aimed at enhancing customer insights and optimizing marketing strategies. Through advanced analytics techniques, this project provides actionable recommendations for customer segmentation, lifetime value prediction, marketing campaign optimization, and more.
 
-## Datase
+## Dataset
 
 The project utilizes the **[Marketing Campaign Dataset]**, which contains detailed customer data, including:
 - Demographics (e.g., income, age, education, marital status)
