@@ -17,7 +17,7 @@ The project utilizes **marketing_campaign.csv**, which contains detailed custome
 - Identified top-tier customers for targeted marketing strategies.
 - Visualized RFM score distributions and spending patterns.
 
-### 2. Customer Segmentatio
+### 2. Customer Segmentation
 - Segmented customers using K-Means clustering based on purchasing behavior and demographics.
 - Provided marketing strategies tailored to each customer segment.
 
